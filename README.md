@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Daniek
+Sou estudante de Gestão e Programação de Sistemas Informáticos e estou a desenvolver competências em programação.
 
-<!--
-**maildanielvieirapereira-ship-it/maildanielvieirapereira-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias
+- Python
+- HTML, CSS
+- Git e GitHub
+- Bases de dados (MySQL)
 
-Here are some ideas to get you started:
+## Projetos
+### Sistema de Tarefas
+Aplicação em Python para organizar tarefas diárias.
+### Website Pessoal
+Site simples com HTML e CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente a aprender
+- Python
+- Desenvolvimento Web
+
+## Objetivos
+- Tornar-me programador
+- Trabalhar na área de tecnologia
+
+## Contacto
+- mail.danielvieirapereira@gmail.com
