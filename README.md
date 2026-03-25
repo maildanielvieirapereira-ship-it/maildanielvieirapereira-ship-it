@@ -1,4 +1,4 @@
-# Olá, eu sou o Daniek
+# Olá, eu sou o Daniel
 Sou estudante de Gestão e Programação de Sistemas Informáticos e estou a desenvolver competências em programação.
 
 ## Tecnologias
