@@ -8,14 +8,12 @@ Sou estudante de Gestão e Programação de Sistemas Informáticos e estou a des
 - Bases de dados (MySQL)
 
 ## Projetos
-### Sistema de Tarefas
-Aplicação em Python para organizar tarefas diárias.
 ### Website Pessoal
 Site simples com HTML e CSS.
 
 ## Atualmente a aprender
 - Python
-- Desenvolvimento Web
+- HTML e CSS
 
 ## Objetivos
 - Tornar-me programador
